@@ -40,6 +40,22 @@ This web application demonstrates a simple yet powerful combination of user auth
    ```bash
    git clone https://github.com/Bushaija/authentication-servlet-javamail.git
 
+### Database Schema: studentAdmissionTest
+
+```sql
+CREATE DATABASE studentAdmissionTest;
+
+USE studentAdmissionTest;
+
+CREATE TABLE Student (
+    student_id INT AUTO_INCREMENT PRIMARY KEY,
+    firstName VARCHAR(30),
+    lastName VARCHAR(30),
+    password VARCHAR(30)
+);
+
+   
+
 Author:
 ## MUGISHA Robert (23443)
 
