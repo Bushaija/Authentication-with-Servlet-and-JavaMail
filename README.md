@@ -37,5 +37,8 @@ This web application demonstrates a simple yet powerful combination of user auth
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/authentication-servlet-javamail.git
+   git clone https://github.com/Bushaija/authentication-servlet-javamail.git
+
+Author:
+## MUGISHA Robert (23443)
 
