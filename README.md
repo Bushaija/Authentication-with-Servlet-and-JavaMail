@@ -5,7 +5,7 @@ A simple a web application that combines user authentication using servlets with
 ![Java](https://img.shields.io/badge/Java-8%2B-blue)
 ![Servlet](https://img.shields.io/badge/Servlet-3.1%2B-green)
 ![JavaMail](https://img.shields.io/badge/JavaMail-1.6%2B-yellow)
-![Maven](https://img.shields.io/badge/Maven-3.3%2B-orange)
+![Tomcat](https://img.shields.io/badge/Tomcat-9.0%2B-orange)
 
 This web application demonstrates a simple yet powerful combination of user authentication using Java servlets and email functionality via the JavaMail API. It provides a foundation for secure user access to protected resources and enables sending emails directly from your web application.
 
